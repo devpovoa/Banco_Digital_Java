@@ -18,7 +18,7 @@
 <ul>
     <li>Sistema Operacional Linux - Distro Ubuntu</li>
     <li>Eclipse IDE</li>
-    <li>Java 18</li>
+    <li>Java 16</li>
 </ul>
 
 
