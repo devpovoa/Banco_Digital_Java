@@ -1,3 +1,4 @@
+package br.com.banco_digital.dio;
 
 public class Cliente {
 	private String nome;

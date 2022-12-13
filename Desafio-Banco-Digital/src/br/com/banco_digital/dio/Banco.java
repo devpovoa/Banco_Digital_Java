@@ -1,3 +1,4 @@
+package br.com.banco_digital.dio;
 import java.util.List;
 
 public class Banco {
